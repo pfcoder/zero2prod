@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/pfcoder/zero2prod.svg?token=YtkX5qHK6f8223EGxkfH&branch=master)](https://travis-ci.com/github/pfcoder/zero2prod)
